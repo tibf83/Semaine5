@@ -1,0 +1,82 @@
+```
+body {
+	margin: auto;
+	padding: 10px;
+	color: black;
+	font-family: Verdana, "Times New Roman", Arial, serif;
+}
+
+header {
+	background-image: url("Images/binding_dark.png");
+	color: rgb(232, 232, 232);
+	padding: 10px;
+}
+
+.photo-profil {
+	float: left;
+}
+
+h1, h2, p {
+	text-align: center;
+}
+
+h1 h2 {
+	font-style: italic;
+}
+
+main {
+	background-image: url("Images/fabric_of_squares_gray.png");
+}
+
+footer {
+	background-image: url("Images/tweed.png");
+	color: white;
+	display: flex;
+}
+
+iframe {
+	width: 50%;
+	margin-right: 30px;
+	padding: 10px;
+}
+
+ul li {
+	list-style-type: disc;
+}
+
+a {
+	color: green;
+}
+
+a:hover {
+	text-decoration: underline;
+	color: gray;
+}
+
+a:visited {
+	color: gray;
+}
+
+.CPM {
+	font-size: 36px;
+}
+
+.conteneur {
+	margin: 15px;
+	padding: 10px;
+	max-width: 960px;
+}
+
+#colonnes {
+    display: flex;
+ }
+
+.element {
+ 	width: 100%;
+ 	max-width: 960px;
+ 	padding: 10px;
+    margin: 15px;
+ }
+```
+
+
