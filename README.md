@@ -1,6 +1,6 @@
 # Semaine5  
   
-Récapitulatif :
+Récapitulatif des exercices :
   
 1. Ajout d'une div de class "conteneur" pour chaque section
 2. Un motif différent pour chaque section tiré du site [Subtle Patterns](subtlepatterns.com)
